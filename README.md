@@ -2,35 +2,6 @@
 
 # Starting with C++ sheet 
 
-<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>file_1696191012582</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
- h1 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 26pt; }
- h2 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt; }
- .p, p { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; margin:0pt; }
- .s1 { color: #4078F1; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s2 { color: #4FA14E; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s3 { color: #A625A3; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s4 { color: #C18300; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s5 { color: #373A41; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s7 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
- .s8 { color: black; font-family:Arial, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s9 { color: #A0A1A6; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- h3 { color: #424242; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
- h4 { color: #666; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
- .s10 { color: #4078F1; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
- .s12 { color: #A625A3; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
- .s14 { color: #373A41; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
- .s15 { color: #A0A1A6; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
- .s17 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
- .s18 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s19 { color: #A0A1A6; font-family:Consolas, monospace; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s20 { color: #A0A1A6; font-family:Consolas, monospace; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11.5pt; }
- .s21 { color: #A625A3; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s22 { color: #373A41; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s23 { color: #C18300; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .s24 { color: #373A41; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
- .a { color: #1154CC; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 11pt; }
- .s25 { color: #1154CC; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
  li {display: block; }
  #l1 {padding-left: 0pt; }
  #l1> li>*:first-child:before {content: "● "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
