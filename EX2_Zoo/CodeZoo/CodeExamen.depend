@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1621430219 source:e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\main.cpp
+	<iostream>
+	"Zoo.h"
+
+1621463247 source:e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\animal.cpp
+	"Animal.h"
+
+1621460144 e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\animal.h
+	<iostream>
+	<string>
+	<vector>
+
+1621457827 source:e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\lion.cpp
+	"Lion.h"
+
+1621457827 e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\lion.h
+	"Animal.h"
+
+1621463265 source:e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\medecinveterinaire.cpp
+	"MedecinVeterinaire.h"
+
+1621458317 e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\medecinveterinaire.h
+	<iostream>
+	<string>
+	<vector>
+
+1621463008 source:e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\zoo.cpp
+	"Zoo.h"
+
+1621463012 e:\esprit-20-21\coursc++_s2\examen2a_zoo\codeexamen\zoo.h
+	"MedecinVeterinaire.h"
+	"Animal.h"
+	"Lion.h"
+	<typeinfo>
+	<fstream>
+
